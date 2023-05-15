@@ -1,3 +1,5 @@
 strval();-------//Convert input to a string
 strrev();-------//Reverse a string
 str_split();----//Split string into individual characters
+strtolower();---//Convert to lowercase
+preg_replace("/[^a-z0-9]/", '', $s);--------//Remove characters
