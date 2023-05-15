@@ -1,0 +1,3 @@
+strval();-------//Convert input to a string
+strrev();-------//Reverse a string
+str_split();----//Split string into individual characters
